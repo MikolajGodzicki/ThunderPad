@@ -1,0 +1,12 @@
+D:\Programowanie\ThunderPad\ThunderPad\bin\Release\ThunderPad.exe.config
+D:\Programowanie\ThunderPad\ThunderPad\bin\Release\ThunderPad.exe
+D:\Programowanie\ThunderPad\ThunderPad\bin\Release\ThunderPad.pdb
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.csproj.AssemblyReference.cache
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.AddThemeDialog.resources
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.FindDialog.resources
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.TitleText.resources
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.Properties.Resources.resources
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.csproj.GenerateResource.cache
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.csproj.CoreCompileInputs.cache
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.exe
+D:\Programowanie\ThunderPad\ThunderPad\obj\Release\ThunderPad.pdb
