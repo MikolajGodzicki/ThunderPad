@@ -17,9 +17,3 @@ An educational project using Windows Forms in C#.
 
 - .NET Framework (version 4.7.2 or higher)
   - [Download .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/MikolajGodzicki/ThunderPad.git
